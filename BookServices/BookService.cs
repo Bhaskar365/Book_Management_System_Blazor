@@ -25,7 +25,6 @@ namespace BlazorBookManagementSystem.BookServices
 
         public async Task<List<Book>> GetBookAsync() => await appDbContext.BooksTable.ToListAsync();
 
-
         public async Task<(bool Success, string Message)> ManageBookAsync(Book book)
         {
             if (book == null) return ErrorMessage();

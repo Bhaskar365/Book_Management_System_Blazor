@@ -67,7 +67,27 @@
             },
             "Syncfusion.Blazor": {
               "target": "Package",
-              "version": "[23.1.40, )"
+              "version": "[24.1.43, )"
+            },
+            "Syncfusion.Blazor.Buttons": {
+              "target": "Package",
+              "version": "[24.1.43, )"
+            },
+            "Syncfusion.Blazor.Grid": {
+              "target": "Package",
+              "version": "[24.1.43, )"
+            },
+            "Syncfusion.Blazor.Notifications": {
+              "target": "Package",
+              "version": "[24.1.43, )"
+            },
+            "Syncfusion.Blazor.Popups": {
+              "target": "Package",
+              "version": "[24.1.43, )"
+            },
+            "Syncfusion.Blazor.Spinner": {
+              "target": "Package",
+              "version": "[24.1.43, )"
             }
           },
           "imports": [
